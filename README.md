@@ -1,7 +1,7 @@
 
 # calculator with react
 
-<img src="src\photo\Screenshot 2023-10-05 160924.png">
+<img src="src\photo\Screenshot 2023-10-05 160924.png" width=300>
 
 ### Decsription 
 
@@ -18,4 +18,4 @@ This program is a calculator used to multiply, add and divide numbers in a simpl
 ***
 
  you want runt App (
-<a href="https://calculator-redux-gd1srjl2t-mohamedhassan2211.vercel.app/" width=400>Calculator</a>)
+<a href="https://calculator-redux-gd1srjl2t-mohamedhassan2211.vercel.app/" >Calculator</a>)
